@@ -1,0 +1,6 @@
+Librerias de maquetación
+
+- Bootstrap / react-bootstrap / reactsrap
+- tailwindcss
+- ant design
+- 
